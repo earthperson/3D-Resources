@@ -1,2 +1,4 @@
 # 3D-Resources
-[3D modeling, animation, and rendering](http://www.youtube.com/user/3dsMaxHowTos)
+* [Autodesk 3ds Max Learning Channel](https://www.youtube.com/channel/UClS3gPxzFYgTUz6JOIruyqA)
+* [Mister P. MeshLab Tutorials](https://www.youtube.com/channel/UC70CKZQPj_ZAJ0Osrm6TyTg)
+
